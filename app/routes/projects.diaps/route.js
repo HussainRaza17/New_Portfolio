@@ -1,0 +1,1 @@
+export { Diaps as default, meta } from './diaps';

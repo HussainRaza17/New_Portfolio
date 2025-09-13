@@ -1,0 +1,40 @@
+ ___      ___    __      __    _____
+|   \    /   |  |  |    |  |  |   _  \
+|    \  /    |  |  |____|  |  |  |_|  |
+|  |\ \/ /|  |  |   ____   |  |      /
+|  | \__/ |  |  |  |    |  |  |  |\  \
+|__|      |__|  |__|    |__|  |__| \__\
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+Security Analyst | セキュリティアナリスト
+
+Mohd. Hussain Raza
+Secure design. Smart code. Real impact.
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+github.com/HussainRaza17
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
